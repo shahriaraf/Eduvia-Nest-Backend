@@ -99,11 +99,7 @@ npm install
 
 ## 4. Environment Variables
 
-Copy `.env.example` to `.env` and fill in your values:
-
-```bash
-cp .env.example .env
-```
+Create a `.env` file in the project root with the following variables:
 
 | Variable          | Description                                                        |
 | ----------------- | -------------------------------------------------------------------- |
